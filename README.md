@@ -12,4 +12,4 @@ Developing an AI system to predict diabetes risk using machine learning algorith
 3. **Feature Selection:** Identify relevant features influencing diabetes risk prediction.
 4. **Model Selection:** Experiment with algorithms like Logistic Regression, Random Forest, Gradient Boosting.
 5. **Evaluation:** Assess model performance using accuracy, precision, recall, F1-score, and ROC-AUC.
-6. **Iterative Improvement:** Fine-tune model parameters and explore feature engineering techniques for enhanced accuracy
+6. **Iterative Improvement:** Fine-tune model parameters and explore feature engineering techniques for enhanced accuracy.
